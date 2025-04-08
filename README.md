@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm YurisMercado</h1>
 <h3 align="center">Frontend Developer from colombia</h3>
 <p align="center">
@@ -21,18 +20,22 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YurisMercado&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YurisMercado&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurisMercado&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YurisMercado&amp;theme=default&amp;hide_border=true" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YurisMercado&layout=compact&theme=ligth&hide_border=true" alt="Top Languages" width="48%" />
+  <img align="right" alt="Totoro" src="https://media.tenor.com/2PVH7hArX-0AAAAj/totoro-jumping.gif">
 </div>
+
 ---
 
 ### 🐍 Snake Eating My Contributions
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 ---
 
 ### 💬 Let's Connect!
+
 <p align="center">
   <a href="{linkedin}" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
